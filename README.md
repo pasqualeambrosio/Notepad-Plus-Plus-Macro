@@ -5,5 +5,5 @@ Inside tag `<Macros>` there are various sections called `<Macro>` containing you
   
 ## How use
 
-Copy content of xml file inside <Macros> tag.
+Copy content of xml file inside `<Macros>` tag.
   
