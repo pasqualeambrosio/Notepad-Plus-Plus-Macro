@@ -1,0 +1,11 @@
+<Macro name="Convert text to PascalCase" Ctrl="no" Alt="no" Shift="no" Key="0">
+    <Action type="0" message="2013" wParam="0" lParam="0" sParam="" />
+    <Action type="2" message="0" wParam="42017" lParam="0" sParam="" />
+    <Action type="2" message="0" wParam="42067" lParam="0" sParam="" />
+    <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+    <Action type="3" message="1601" wParam="0" lParam="0" sParam="_" />
+    <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+    <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+    <Action type="3" message="1702" wParam="0" lParam="1792" sParam="" />
+    <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+</Macro>
