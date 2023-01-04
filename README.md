@@ -6,7 +6,7 @@ Inside tag `<Macros>` there are various sections called `<Macro>` containing you
 ## How use
 
 1. open file "%APPDATA%\Notepad++\shortcuts.xml"
-2. paste macro xml content, inside tag `<Macro>`
+2. paste macro xml content, inside tag `<Macros>`
 3. save file
 4. restart Notepad++
 
